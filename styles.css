@@ -1,0 +1,44 @@
+﻿/* CSS layout */
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#masthead {
+}
+
+#top_nav {
+}
+
+#container {
+	min-width: 600px;
+}
+
+#left_col {
+	width: 200px;
+	float: left;
+	padding-left: 4px;
+	border-right-color: #FFFFFF;
+	border-right-width: 2px;
+	border-right-style: solid;
+}
+
+#right_col {
+	border-left: 2px #FFFFFF solid;
+	width: 200px;
+	float: right;
+	padding-right: 4px;
+}
+
+#page_content {
+	margin-left: 175px;
+	margin-right: 205px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+}
+
+#footer {
+	clear: both;
+	padding-top: 6px;
+}
